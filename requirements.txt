@@ -1,0 +1,8 @@
+# FNOL Claims Processing Agent
+# No external dependencies required - uses Python standard library only
+
+# For development/testing purposes:
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.950
